@@ -1,0 +1,1 @@
+# Pendekatan-MultiBERT-Analisis-Kinerja-Menteri-Keuangan-Baru-Berdasarkan-Perspektif-Publik
